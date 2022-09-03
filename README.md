@@ -1,7 +1,7 @@
 # simple-rock-paper-scissors-game
 
-#### #### This simple game can be played via the terminal or your preferred Code IDE.
-#### #### It is built with python using different attributes from RANDOM, INPUT, FUNCTION, DICTIONARY, WHILE LOOP, and IF STATEMENT
+#### This simple game can be played via the terminal or your preferred Code IDE.
+#### It is built with python using different attributes from RANDOM, INPUT, FUNCTION, DICTIONARY, WHILE LOOP, and IF STATEMENT
 
 > To run the game via the terminal:
 * First, clone the game on your local machine.
