@@ -5,6 +5,6 @@
 
 ## To run the game via the terminal:
 ### First, clone the game on your local machine.
-### Navigate to the game file directory and Change the file permission via the terminal ''' chmod 775 game.py '''
-### After the above command, run this command ''' ./game.py ''' from the game directory via your terminal
+### Navigate to the game file directory and Change the file permission via the terminal ``` chmod 775 game.py ```
+### After the above command, run this command ``` ./game.py ``` from the game directory via your terminal
 ### Thank you for downloading the game. You are welcome to fine-tune it and use it for your project. 
