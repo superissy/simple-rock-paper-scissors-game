@@ -1,9 +1,0 @@
-name: Build two test
-on:
-  push:
-    branches:
-      - main
-jobs:
-  build:
-    name: Ubuntu server
-    runs-on: ubuntu-latest
